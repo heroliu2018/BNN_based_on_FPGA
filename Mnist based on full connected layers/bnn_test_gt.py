@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ##################################################################
-     Bayesian Neural Network based on 4 full-connected layers
+     Bayesian Neural Network based on 2 full-connected layers
 
      time:2019.3.29
      author: Yingh Liu
