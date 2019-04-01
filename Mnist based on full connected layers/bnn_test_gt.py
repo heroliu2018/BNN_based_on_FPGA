@@ -34,8 +34,6 @@ K = 10  # 10 classes ,figure 0~9
 filers_0 = 400# layer1 filters number
 """
 2 layers full connected neural network
-
-Inputs are the logits, not probabilities.
 Args:
   features  :input features
   W_0 W_1 :weights in layer 
