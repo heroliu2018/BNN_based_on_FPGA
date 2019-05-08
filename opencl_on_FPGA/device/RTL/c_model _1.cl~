@@ -1,0 +1,1 @@
+char  gauss_random_generator(char load, char seed) { return seed ;  }
